@@ -1,3 +1,5 @@
+package com.gmail.samonenko.content;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -14,7 +16,7 @@ class Pair {
 
     @Override
     public String toString() {
-        return "Pair{" +
+        return "com.gmail.samonenko.content.Pair{" +
                 "x=" + x +
                 ", y=" + y +
                 '}';
